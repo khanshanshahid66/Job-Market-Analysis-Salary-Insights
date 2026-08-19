@@ -51,4 +51,4 @@ The dashboard provides a quick way to identify:
 •	Differences in salary across data-related roles
 •	Higher- and lower-paying job categories
 •	Geographic salary variations
-•	How employment type can affect salary comparisons
+•	How employment type can affect salary comparisons.
